@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da
 
 Here is the solution site url-
-https://drougnov.github.io/ping-coming-soon-master/
+https://drougnov.github.io/ping-coming-soon-page-master/
 
 ## Built with
 
